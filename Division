@@ -1,4 +1,4 @@
-def div(a,b)
+def div(a,b):
    answer = b/a
    return (answer)
    
