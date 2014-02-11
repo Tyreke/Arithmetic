@@ -3,5 +3,4 @@ def div(a,b):
    return (answer)
    
 print (div(12,4))
-#expected outcome is  3
-   
+#expected outcome is 3
